@@ -1,12 +1,18 @@
 
 import './App.css';
+import Dictionary from "./Dictionary";
 
 function App() {
   return (
     <div className="App">
+      <div className="container">
       <header className="App-header">
-        Dictionary
+        <img className="image-top" src="https://i2.wp.com/www.revistaapolice.com.br/wp-content/uploads/2015/09/SindsegSP-lan%C3%A7a-Dicion%C3%A1rio-Bil%C3%ADngue-de-Seguros.jpg?resize=1024%2C682&ssl=1" />
       </header>
+      <main>
+        <Dictionary />
+      </main>
+    </div>
     </div>
   );
 }
