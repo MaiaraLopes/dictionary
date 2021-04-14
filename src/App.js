@@ -13,8 +13,11 @@ function App() {
         <Dictionary />
       </main>
     </div>
+    
+    <p className="footer">Coded by <a href="https://github.com/MaiaraLopes/dictionary" target="_blank">Maiara Lopes</a></p>
     </div>
   );
+  
 }
 
 export default App;
