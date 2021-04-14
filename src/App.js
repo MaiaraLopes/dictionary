@@ -14,7 +14,7 @@ function App() {
       </main>
     </div>
     
-    <p className="footer">Coded by <a href="https://github.com/MaiaraLopes/dictionary" target="_blank">Maiara Lopes</a></p>
+    <p className="footer">Coded by <a href="https://github.com/MaiaraLopes/dictionary" target="_blank" rel="noreferrer">Maiara Lopes</a></p>
     </div>
   );
   
