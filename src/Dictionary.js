@@ -26,6 +26,7 @@ export default function Dictionary() {
     
     return (
         <div className="Dictionary">
+            <h1>Mai Dictionary</h1>
             <form className="search-word" onSubmit={search}>
                 <input type="search" placeholder="Search your word here" autoFocus={true} onChange={handleKeywordChange} />
             </form>
