@@ -1,0 +1,15 @@
+.Meaning .classification {
+  color: #a91b60;
+  margin-top: 20px;
+  font-size: 28px;
+}
+
+.Meaning .definition {
+  font-size: 18px;
+}
+
+.Meaning .example {
+  margin: 30px;
+  opacity: 0.7;
+  font-style: italic;
+}
