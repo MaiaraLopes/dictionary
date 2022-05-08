@@ -1,6 +1,6 @@
 # Dictionary
 
-This is a [dictionary](https://thirsty-jennings-161a0d.netlify.app/) app connected to an API that shows a word's meaning, pronunciation, examples in a sentence and pictures.
+This is a [dictionary](https://ml-dictionary-react.netlify.app) app connected to an API that shows a word's meaning, pronunciation, examples in a sentence and pictures.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
