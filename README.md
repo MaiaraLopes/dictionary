@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+# Dictionary
+
+This is a [dictionary app] (https://thirsty-jennings-161a0d.netlify.app/) connected to an API that shows a word's meaning, pronunciation, examples in a sentence and pictures.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+## Built with
+
+HTML, CSS, React and Bootstrap.
+
+## Screenshot
+
+[![dictionary.png](https://i.postimg.cc/qvmTqHDf/dictionary.png)](https://postimg.cc/pmn7c4tk)
 
 ## Available Scripts
 
